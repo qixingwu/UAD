@@ -1,0 +1,31 @@
+# IDE settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+
+# Data & results (don't commit large datasets/results)
+Dataset/
+results/
+*.png
+*.jpg
+*.pth
+*.pt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Memory
+memory/
